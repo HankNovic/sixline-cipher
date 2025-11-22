@@ -209,5 +209,5 @@ console.log(decode("!! i| !¦ !¦ ll |l I| ll l¦ !¦ iI"));
 
 ## Author
 
-**HankNovic** — SixLine Cipher 概念设计
+**HankNovic** — SixLine Cipher 概念设计<br>
 ChatGPT — 文档与参考实现编写支持
